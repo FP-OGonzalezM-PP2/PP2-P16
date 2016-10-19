@@ -21,7 +21,7 @@ public class PP2P16 {
         b = pedirNumero();
         c = pedirNumero();
         d = calcular(a,b,c);
-        //Me es más facil usar variables con letras en orden de abecedario
+        //Me es más facil usar variables con letras en orden de 
         Mostrar(d);
     }
     public static int pedirNumero(){
